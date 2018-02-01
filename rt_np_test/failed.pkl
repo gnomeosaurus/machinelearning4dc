@@ -1,0 +1,4 @@
+(lp0
+S'/eos/cms/store/user/fsiroky/data_fifthrun//DoubleMuonLowMass/crab_DoubleMuonLowMassRun_2016G-18Apr2017-v1/170808_214043/0000/AODTree_403.root'
+p1
+a.
